@@ -277,7 +277,7 @@ netsh advfirewall firewall add rule name="Security Daemon" dir=in action=allow p
 
 ## Author
 
-Vikas Vashistha
+Soham Vashistha
 
 ---
 
